@@ -13,6 +13,8 @@ The project provides the following features:
 Only the owner can use **mint** function whereas all the functions can be used by other users/address.
 
 ##Deploymnet on Local Hardhat Network
+
+
 Follow these steps to deploy tokens on local hardhat network , here i am using VS Code.
 
 1. Install node.js in to your systemt to run npm commands.

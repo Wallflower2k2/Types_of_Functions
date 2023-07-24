@@ -125,10 +125,10 @@ To test Hardhat's Network;
 
 After providing the inputs, click on the "Transact" button to execute the function.
 
-#Authors
+# Authors
 Gauri Kaushal (gaurikaushal18@gmail.com)
 
-#License
+# License
 This project is licensed under the MIT License
 
 

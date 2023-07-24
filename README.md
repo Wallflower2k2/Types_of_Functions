@@ -11,6 +11,7 @@ The project provides the following features:
 .**burn** function is used to burn tokens from address , no restriction on access.
 .**transfer** is used to transfer tokens fron sender to receiver , no restriction on access.
 Only the owner can use **mint** function whereas all the functions can be used by other users/address.
+
 ##Deploymnet on Local Hardhat Network
 Follow these steps to deploy tokens on local hardhat network , here i am using VS Code.
 
